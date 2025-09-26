@@ -63,9 +63,8 @@ export default function Home() {
           steps={[
             { position: 'left', image: 'https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1758888299285-723d3ccb.jpg', title: 'Step 1', description: 'Connect your wallet.' },
             { position: 'center', image: 'https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1758888300925-f7f38ebe.jpg', title: 'Step 2', description: 'Choose a meme coin to buy.' },
-            { position: 'right', image: 'https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1758888302516-03de408f.jpg', title: 'Step 3', description: 'Confirm your purchase!'
-          }
-        ]}
+            { position: 'right', image: 'https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/a-flat-cartoon-portrait-of-an-anthropomo-1758888302516-03de408f.jpg', title: 'Step 3', description: 'Confirm your purchase!'}
+          ]}
         />
       </div>
 
