@@ -27,7 +27,7 @@ export default function Home() {
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
           navItems={navItems}
-          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/design-a-simple-high-contrast-logotype-w-1758888303948-90815082.jpg"
+          logoSrc="/images/design-a-simple-high-contrast-logotype-w-1758888303948-90815082.jpg"
           logoWidth={100}
           logoHeight={40}
           buttonText="Buy MemePulse"
@@ -81,7 +81,7 @@ export default function Home() {
 
       <div id="footer" data-section="footer" className="scroll-mt-24">
         <FooterBase
-          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/tmp/design-a-simple-high-contrast-logotype-w-1758888303948-90815082.jpg"
+          logoSrc="/images/design-a-simple-high-contrast-logotype-w-1758888303948-90815082.jpg"
           logoWidth={100}
           logoHeight={40}
           columns={[
